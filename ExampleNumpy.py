@@ -10,7 +10,7 @@ df = pd.read_csv('argentina_prestamos.csv', na_values='..')
 print(df.iloc[0, :])
 # Reemplazar la columna 'Value' con tus datos
 
-# Imprimir la primera columna
+
 
 
 
